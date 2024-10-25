@@ -29,3 +29,11 @@ Description: A Java program that calculates how many seconds in the day has pass
 Status: Completed\
 Notes:
 - The program automatically takes data from the device system.
+- The program's output is in German.
+
+Pizza Calculator\
+Description: A Java program that compares the price per size proportions between 2 pizzas.\
+Status: Completed\
+Notes:
+- The program does not have a specific currency or unit it will use. It is up to the user to keep the consistency.
+- The program's output is in German.
