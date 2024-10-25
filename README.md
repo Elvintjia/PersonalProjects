@@ -23,3 +23,9 @@ Notes:
 - The program will request input again if it receives an invalid input, until it receives a valid input.
 - A valid input is a positive whole number.
 - The number 0 and 1 are considered invalid inputs.
+
+Day-Calculator\
+Description: A Java program that calculates how many seconds in the day has passed, how many seconds are left in a day, and the percentage of a day that has already passed.\
+Status: Completed\
+Notes:
+- The program automatically takes data from the device system.
