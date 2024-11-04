@@ -39,8 +39,21 @@ Notes:
 - The program's output is in German.
 
 Sudoku Bruteforcer\
-Description: An Excel program that can solve all Sudoku with a solution by bruteforcing the solution.
+Description: An Excel program that can solve all Sudoku with a solution by bruteforcing the solution.\
 Status: Completed\
 Notes:
 - Using sudoku.com as a basis, the program can solve even extreme difficulty sudoku puzzles.
 - The program takes increasing amount of time the more difficult the sudoku puzzle is, possibly until half an hour if the puzzle is especially difficult.
+
+Sudoku Hybrid Solver\
+Description: An Excel program that solves Sudoku using logic in the beginning, and resorting to brute force once stuck.\
+Status: In development\
+Notes:
+- The program is a combination of the Sudoku Solver and the Sudoku Bruteforcer
+
+Poker Calculator\
+Description: A program that can calculate the chances of each hand in poker.\
+Status: In development\
+Notes:
+- The program assumes that no joker card will be used in the poker game.
+- The program cannot account for cheating.
