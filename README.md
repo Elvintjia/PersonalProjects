@@ -37,3 +37,10 @@ Status: Completed\
 Notes:
 - The program does not have a specific currency or unit it will use. It is up to the user to keep the consistency.
 - The program's output is in German.
+
+Sudoku Bruteforcer\
+Description: An Excel program that can solve all Sudoku with a solution by bruteforcing the solution.
+Status: Completed\
+Notes:
+- Using sudoku.com as a basis, the program can solve even extreme difficulty sudoku puzzles.
+- The program takes increasing amount of time the more difficult the sudoku puzzle is, possibly until half an hour if the puzzle is especially difficult.
