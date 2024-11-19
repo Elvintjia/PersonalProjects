@@ -47,9 +47,11 @@ Notes:
 
 Sudoku Hybrid Solver\
 Description: An Excel program that solves Sudoku using logic in the beginning, and resorting to brute force once stuck.\
-Status: In development\
+Status: Completed\
 Notes:
-- The program is a combination of the Sudoku Solver and the Sudoku Bruteforcer
+- The program is a combination of the Sudoku Solver and the Sudoku Bruteforcer.
+- Using sudoku.com as a basis, the program can solve even extreme difficulty sudoku puzzles.
+- The program does not neet more than a few seconds to solve difficult puzzles.
 
 Poker Calculator\
 Description: A program that can calculate the chances of each hand in poker.\
